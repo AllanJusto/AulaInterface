@@ -1,0 +1,15 @@
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\bin\Debug\net6.0\AulaArquivos.exe
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\bin\Debug\net6.0\AulaArquivos.deps.json
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\bin\Debug\net6.0\AulaArquivos.runtimeconfig.json
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\bin\Debug\net6.0\AulaArquivos.dll
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\bin\Debug\net6.0\AulaArquivos.pdb
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\AulaArquivos.csproj.AssemblyReference.cache
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\AulaArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\AulaArquivos.AssemblyInfoInputs.cache
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\AulaArquivos.AssemblyInfo.cs
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\AulaArquivos.csproj.CoreCompileInputs.cache
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\AulaArquivos.dll
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\refint\AulaArquivos.dll
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\AulaArquivos.pdb
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\AulaArquivos.genruntimeconfig.cache
+C:\Users\allan.firme\Documents\AulaArquivos\AulaArquivos\obj\Debug\net6.0\ref\AulaArquivos.dll
